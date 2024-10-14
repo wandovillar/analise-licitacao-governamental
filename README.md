@@ -45,7 +45,7 @@ O projeto tem como objetivo principal analisar dados de licitações públicas p
 
    ```bash
    git clone https://github.com/wandovillar/analise-licitacao-governamental.git
-   ```
+   
 
 2. **Prepare os Dados:**
    - Se necessário, você pode utilizar o comando CMD mencionado acima para combinar arquivos CSV:
