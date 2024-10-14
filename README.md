@@ -1,4 +1,3 @@
-Claro! Aqui está uma descrição detalhada para o seu `README.md`, incluindo o processo de uso do Prompt de Comando (CMD) para combinar arquivos CSV:
 
 ```markdown
 # Análise de Licitações Governamentais
